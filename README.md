@@ -1,3 +1,5 @@
 # Girish Malekar
-![Girish](hello-world/images/)
+![Girish](images/ME.jpg)
+
+![Man Utd](images/Man utd.jpg)
 
