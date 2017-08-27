@@ -1,3 +1,3 @@
 # Girish Malekar
-![Girish](/Users/girish/Downloads)
+![Girish](/Users/girish/Downloads "Girish")
 
