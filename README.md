@@ -1,2 +1,3 @@
-# hello-world
-sample repository for guide
+# Girish Malekar
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
