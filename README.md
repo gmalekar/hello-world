@@ -15,7 +15,7 @@ Girish Malekar is a first-year graduate student at the Illinois Institute Techno
 
 # Something Interesting about you
 
-Fitness aficionado *However I would love to be back to the shape I was a year back*. Love to read geo-polictics and Business news from Economist and WSJ. Would love it if you recommend a similar magzine for technology. I love playing games on PS4 it all started with FIFA and I have loyalty to PS4 becasue of God of War trilogy. Love Jhon Grisham and Dan Brown.
+Fitness aficionado *However I would love to be back to the shape I was a year back*. Love to read geo-polictics and Business news from Economist and WSJ. Would love it if you recommend a similar magzine for technology. I love playing games on PS4 it all started with FIFA and I have loyalty to PS4 becasue of God of War trilogy. Love Jhon Grisham and Dan Brown. _**VALAR MORGHULIS_**
 
 # Git Tutorial
 ![badge](images/badge.png)
